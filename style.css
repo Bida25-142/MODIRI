@@ -1,0 +1,43 @@
+<link rel="stylesheet" href="styles.css">
+
+body{
+    margin:0;
+    font-family:Arial;
+    background:#0f172a;
+    color:white;
+}
+
+header{
+background:linear-gradient(135deg,#1d4ed8,#2563eb);
+padding:50px;
+text-align:center;
+}
+
+h1{
+    margin:0;
+    font-size:38px;
+}
+
+navbar{
+background:#020617;
+padding:15px;
+text-align:center;
+}
+
+
+imgage{
+width:100%;
+max-width:1000px;
+height:auto;
+display:block;
+margin:auto;
+border-radius:12px;
+box-shadow:0 6px 20px rgba(0,0,0,0.6);
+}
+
+footer{
+background:#1e293b;
+text-align:center;
+padding:20px;
+margin-top:40px;
+}
